@@ -8,6 +8,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
 # nltk'nin stopwords paketini indirme
+
 nltk.download('stopwords')
 
 # Zemberek kütüphanesinin yolu
